@@ -1,6 +1,6 @@
 
-## App.creation
-# Оne page site ### ( the project at Web Hero School )
+# App.creation
+## Оne page site ( the project at Web Hero School )
 
 
 ## Technology stack:
