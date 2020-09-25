@@ -1,0 +1,31 @@
+body {
+    margin: 0;
+}
+
+.wrapper {
+    margin: auto;
+    width: 80%;
+}
+
+.main-content__title {
+    font-family: 'PT Serif', serif;
+}
+
+.logo-name {
+    font-family: 'PT Serif', serif;
+}
+
+.main-content__description {
+    font-family: 'Roboto', sans-serif;
+}
+
+.menu {
+    font-family: 'Roboto', sans-serif;
+}
+
+.main-content__button {
+    font-family: 'Roboto', sans-serif;
+}
+
+
+
