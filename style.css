@@ -21,11 +21,48 @@ body {
 
 .menu {
     font-family: 'Roboto', sans-serif;
+    padding: 47px 0;
 }
 
 .main-content__button {
     font-family: 'Roboto', sans-serif;
 }
 
+.logo, .menu {
+    display: inline-block;
+}
 
+.header {
+   display: flex;
+   justify-content: space-between;
+}
+
+.header__logo {
+    padding: 40px 0;
+}
+
+.menu__item {
+    padding: 0 13px;
+}
+
+.menu__item:last-child{
+    padding-right: 0;
+}
+
+.info {
+    display: flex;
+    justify-content: space-between;
+}
+
+.footer {
+    display: flex;
+}
+
+.footer__dots {
+    margin: auto;
+}
+
+.main-content__button {
+   padding: 20px 10px; 
+}
 
