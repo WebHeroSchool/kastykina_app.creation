@@ -16,11 +16,6 @@ body {
   padding: 47px 0;
 }
 
-.main-content__button {
-  font-family: 'Roboto', sans-serif;
-  padding: 20px 10px;
-}
-
 .logo,
 .menu {
   display: inline-block;
